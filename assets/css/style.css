@@ -1,0 +1,35 @@
+body {
+    background: orange;
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+}
+
+#container {
+    width: 60%;
+    background:lightblue;
+    margin: 20px auto;
+    overflow: auto;
+    padding: 25px;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: white dashed 1px;
+}
+
+/* input[type='submit'] {
+   padding: 10px 15px;
+   cursor: pointer;
+} */
+
+/* #results h3 {
+    background: orange;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#results span {
+    color: black;
+    font-weight: bold;
+} */
